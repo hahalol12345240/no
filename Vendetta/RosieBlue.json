@@ -10,7 +10,7 @@
       }
     ],
     "semanticColors": {
-      "CHAT_BACKGROUND": [ "#24232b" ],
+      "CHAT_BACKGROUND": [ "#FF0000" ],
       "HEADER_PRIMARY": [ "#a1b7ff" ],
       "HEADER_SECONDARY": [ "#fffeff" ],
       "TEXT_NORMAL": [ "#fbfbfb" ],
