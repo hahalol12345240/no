@@ -1,12 +1,12 @@
 {
-    "name": "Rosie Blue",
-    "description": "meow meow but in blue",
+    "name": "Rosie Blue No Background",
+    "description": "No Background",
     "version": "2.0.0",
     "spec": "2",
     "authors": [
       {
-        "name": "Moodle",
-        "id": "807170846497570848"
+        "name": "",
+        "id": ""
       }
     ],
     "semanticColors": {
@@ -177,7 +177,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/c9j0cfF.png"
+        "url": "https://i.imgur.com/6NpcO1p.jpeg"
     },
    "plus": {
        "version": "0",
