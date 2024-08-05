@@ -176,8 +176,8 @@
         "WHITE_630": "#676977"
     },
     "background": {
-        "blur": 0,
-        "url": "https://media.discordapp.net/attachments/924996341405466664/1269942137336758302/IMG_1311.jpg?ex=66b1e547&is=66b093c7&hm=c980f957e9b8843f7d75c4665ebde819faf050da898eb5170da68047b1cab2ac&=&format=webp&width=523&height=654"
+        "blur": 0.1,
+        "url": "https://media.discordapp.net/attachments/924996341405466664/1269942718033825833/IMG_1312.jpg?ex=66b1e5d2&is=66b09452&hm=3d845b71dd03e2275cf3e2962e685e83fbedd977c0a546f3762e18ee59375c78&=&format=webp&width=828&height=621"
     },
    "plus": {
        "version": "0",
